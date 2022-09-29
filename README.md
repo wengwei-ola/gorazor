@@ -69,7 +69,7 @@ ok      github.com/sipin/gorazor/tests  19.921s
 ## Install
 
 ```sh
-go get github.com/sipin/gorazor
+go install github.com/sipin/gorazor@latest
 ```
 
 ## Usage
